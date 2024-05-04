@@ -1,2 +1,0 @@
-hide_inventory();
-load_map("Tutorial", coord[-1, 0, 0], WEST);
