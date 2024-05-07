@@ -1,0 +1,2 @@
+if random(1, 20) > 15 then
+end;

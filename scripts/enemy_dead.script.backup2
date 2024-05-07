@@ -1,0 +1,2 @@
+play_animation(entity["tutorial_enemy1"], "idle_east");
+remove_entity(entity["tutorial_enemy1"]);
