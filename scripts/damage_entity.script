@@ -1,0 +1,3 @@
+damage_entity(self, 1);
+play_sound("walking.wav");
+give_currency(1);

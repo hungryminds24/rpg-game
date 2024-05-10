@@ -1,0 +1,3 @@
+put_entity(entity["enemy"], self);
+play_animation(entity["enemy"], "idle_east");
+wait(2);

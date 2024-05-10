@@ -1,2 +1,4 @@
+damage_entity(initiator, 1);
 play_animation(entity["tutorial_enemy1"], "idle_east");
-remove_entity(entity["tutorial_enemy1"]);
+wait(2);
+remove_entity(self);

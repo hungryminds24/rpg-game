@@ -1,2 +1,3 @@
-if random(1, 20) > 15 then
-end;
+damage_entity(initiator, 1);
+play_animation(entity["tutorial_enemy1"], "idle_east");
+wait(2);
