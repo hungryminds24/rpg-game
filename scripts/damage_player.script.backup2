@@ -1,0 +1,3 @@
+damage_entity(player, 1);
+play_sound("hurt.wav");
+give_currency(1);
