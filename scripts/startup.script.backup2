@@ -1,1 +1,3 @@
-load_map("Tutorial", coord[-3, 3, 0], WEST);
+load_map("Tutorial", coord[3, 0, 0], WEST);
+hide_inventory();
+play_music("The Adventure Begins.ogg");
